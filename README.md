@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My language history・・・  
+Delphi🏛 → Java☕ → Haxe
 <!--
 **seiren-games/seiren-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

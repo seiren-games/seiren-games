@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My language history・・・  
-Delphi🏛 → Java☕ → Haxe [<img src="https://raw.githubusercontent.com/HaxeFoundation/haxe.org/staging/www/img/haxe-logo.svg" alt="Haxe" height="16">](https://haxe.org)
+My language history...  
+Delphi🏛 -> Java☕ -> Haxe [<img src="https://raw.githubusercontent.com/HaxeFoundation/haxe.org/staging/www/img/haxe-logo.svg" alt="Haxe" height="16">](https://haxe.org)
 <!--
 **seiren-games/seiren-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
